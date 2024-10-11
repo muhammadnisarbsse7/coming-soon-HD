@@ -66,7 +66,7 @@ function App() {
             className="w-full max-w-[60vw] sm:max-w-[40vw] h-auto rounded-lg"
           />
         </div>
-        <div className="w-full flex flex-col sm:items-center sm:justify-center border py-10">
+        <div className="w-full flex flex-col sm:items-center sm:justify-center py-10">
           <div className="font-poppins font-semibold text-[10vw] text-white bg-[#FF3389] leading-[12vw] rounded-[1vw] px-[2vw]">
             LAUNCHING
           </div>
