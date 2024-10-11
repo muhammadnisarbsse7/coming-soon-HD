@@ -1,3 +1,4 @@
 import HawalaFavicon from "./HawalaFavicon.png";
+import MrMonopoly from "./MrMonopoly.png";
 
-export { HawalaFavicon };
+export { HawalaFavicon, MrMonopoly };
