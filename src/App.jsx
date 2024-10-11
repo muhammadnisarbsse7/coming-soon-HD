@@ -58,21 +58,21 @@ function App() {
           </a>
         </div>
       </nav>
-      <section className="flex justify-center border mt-32 gap-3">
-        <div>
+      <section className="flex flex-col sm:flex-row justify-center border-4 border-green-700 mt-8 gap-3 overflow-x-hidden w-full">
+        <div className="w-full sm:w-1/2 flex justify-center">
           <img
             src={MrMonopoly}
             alt="Hawala"
-            className="w-full sm:w-96  h-auto rounded-lg"
+            className="w-full max-w-[60vw] sm:max-w-[40vw] h-auto rounded-lg"
           />
         </div>
-        <div className="flex flex-col items-center justify-center">
-          <div className="font-poppins font-semibold text-[96px] text-white bg-[#FF3389] leading-[144px] rounded-[6px] px-4">
-            LAUNCHING{" "}
+        <div className="w-full flex flex-col items-center justify-center">
+          <div className="font-poppins font-semibold text-[10vw] text-white bg-[#FF3389] leading-[12vw] rounded-[1vw] px-[2vw]">
+            LAUNCHING
           </div>
-          <div className="font-poppins font-semibold text-[64px] text-[#FF3389] leading-[96px]">
+          <div className="font-poppins font-semibold text-[8vw] text-[#FF3389] leading-[10vw] mt-[3vw]">
             OCTOBER{" "}
-            <span className="font-poppins font-semibold text-[64px] text-[#494949] leading-[96px]">
+            <span className="font-poppins font-semibold text-[8vw] text-[#494949] leading-[10vw]">
               2024
             </span>
           </div>
