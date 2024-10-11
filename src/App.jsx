@@ -8,7 +8,7 @@ import { TwitterIcon } from "./SVG/TwitterIcon";
 function App() {
   return (
     <main>
-      <nav className="flex justify-between items-center mt-4 px-3 border-4">
+      <nav className="flex justify-between items-center mt-4 px-3">
         <div className="font-poppins font-semibold text-[24px] leading-[36px] sm:text-[32px] sm:leading-[48px] text-[#494949]">
           Hawala{" "}
           <span className="font-poppins font-semibold text-[24px] leading-[36px] sm:text-[32px] text-[#FF3389] sm:leading-[48px]">
@@ -58,7 +58,7 @@ function App() {
           </a>
         </div>
       </nav>
-      <section className="flex flex-col sm:flex-row justify-center border-4 border-green-700 mt-8 gap-3 overflow-x-hidden w-full">
+      <section className="flex flex-col sm:flex-row justify-center mt-32  px-20 gap-3 overflow-x-hidden w-full">
         <div className="w-full sm:w-1/2 flex justify-center">
           <img
             src={MrMonopoly}
@@ -66,7 +66,7 @@ function App() {
             className="w-full max-w-[60vw] sm:max-w-[40vw] h-auto rounded-lg"
           />
         </div>
-        <div className="w-full flex flex-col items-center justify-center">
+        <div className="w-full flex flex-col sm:items-center sm:justify-center border py-10">
           <div className="font-poppins font-semibold text-[10vw] text-white bg-[#FF3389] leading-[12vw] rounded-[1vw] px-[2vw]">
             LAUNCHING
           </div>
