@@ -37,7 +37,7 @@ function App() {
             </div>
           </a>
           <a
-            href="https://discord.gg/hNNx3saV"
+            href="https://discord.gg/RDPEuE6X"
             target="_blank"
             rel="noopener noreferrer"
             // className="sm:h-full sm:w-full"
@@ -73,7 +73,7 @@ function App() {
           <div className="font-poppins font-semibold text-[8vw] text-[#FF3389] leading-[10vw] mt-[3vw]">
             OCTOBER{" "}
             <span className="font-poppins font-semibold text-[8vw] text-[#494949] leading-[10vw]">
-              2025
+              2024
             </span>
           </div>
         </div>
