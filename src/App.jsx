@@ -70,8 +70,8 @@ function App() {
           <div className="font-poppins font-semibold text-[10vw] text-white bg-[#FF3389] leading-[12vw] rounded-[1vw] px-[2vw]">
             LAUNCHING
           </div>
-          <div className="font-poppins font-semibold text-[8vw] text-[#FF3389] leading-[10vw] mt-[3vw]">
-            OCTOBER{" "}
+          <div className="font-poppins font-semibold text-[7vw] text-[#FF3389] leading-[10vw] mt-[3vw]">
+            NOVEMBER{" "}
             <span className="font-poppins font-semibold text-[8vw] text-[#494949] leading-[10vw]">
               2024
             </span>
